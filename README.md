@@ -10,7 +10,7 @@
 
 ## Abstract
 
-The project coli-conc(<https://coli-conc.gbv.de>) aims to facilitate creation,
+The project coli-conc (<https://coli-conc.gbv.de>) aims to facilitate creation,
 easy management, and storage of concordances between knowledge organization
 systems such as controlled vocabularies, classification schemes, and thesauri
 on a single platform. Since its foundation five years ago we have collected
@@ -22,7 +22,7 @@ Cocoda to enhance the speed and efficiency of the intellectual mapping building
 process as well as to evaluate existing and newly created mappings
 (<https://github.com/gbv/cocoda>). 
 
-The talk will less focus on the outcome of project: mapping data is available
+The talk will focus less on the outcome of project: mapping data is available
 via Web APIs, the data formats are documented, and the software is open source
 both by license and by development process. Instead we will tell the paths that
 have been taken (we had to throw away two working prototypes), explain
